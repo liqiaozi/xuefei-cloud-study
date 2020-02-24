@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a0d909d-7fd8-4891-8b47-2679a7c43d93" name="Default Changelist" comment="" />
+    <list default="true" id="3a0d909d-7fd8-4891-8b47-2679a7c43d93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/xuefeidatabasejpa/XuefeiDatabaseJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/test/java/com/xuefei/xuefeidatabasejpa/XuefeiDatabaseJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/test/java/com/xuefei/database/XuefeiDatabaseJpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/XuefeiConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/ConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-dependencies/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/xuefeiorderservice/XuefeiOrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/test/java/com/xuefei/xuefeiorderservice/XuefeiOrderServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/test/java/com/xuefei/order/OrderServiceApplicationTests.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/xuefei-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/xuefei-commom/target/" />
     <ignored path="$PROJECT_DIR$/xuefei-common/target/" />
@@ -21,21 +74,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="367">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xuefei-common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/druid/DruidMonitorConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,34 +111,117 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xuefei-dependencies/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="1064">
+              <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/resources/config/order/order-service-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/ConfigApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/test/java/com/xuefei/order/OrderServiceApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-config/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>fastjson.version</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/xuefei-common/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/config/DruidDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/druid/DruidMonitorConfig.java" />
+        <option value="$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/ConfigApplication.java" />
+        <option value="$PROJECT_DIR$/xuefei-config/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/test/java/com/xuefei/order/OrderServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderEntity.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderAPI.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderController.java" />
+        <option value="$PROJECT_DIR$/xuefei-config/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-config/src/main/resources/config/order/order-service-dev.properties" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/Order.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\.m2\repository" />
-        <option name="mavenHome" value="F:/hikvision/dev_tools/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="F:\hikvision\dev_tools\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="D:\02 maven-repository" />
+        <option name="mavenHome" value="D:/01 dev_tools/apache-maven-3.2.3" />
+        <option name="userSettingsFile" value="D:\01 dev_tools\apache-maven-3.2.3\conf\settings.xml" />
+        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -89,27 +240,54 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xuefei-commom" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xuefei-database-jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xuefei-database-jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xuefei-order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xuefei-order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xuefei-order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,27 +309,213 @@
             <path>
               <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-common" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-database-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-common" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-database-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-common" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-database-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-common" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-database-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-common" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-database-jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="druid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefeiconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefeiconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
               <item name="xuefei-dependencies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-order-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuefei-cloud-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuefei-cloud-study" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-seata-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="xuefei-order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582545152435" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xuefei-common/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582563463343" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xuefei-config/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\01 code\03 git_workspace\xuefei-cloud-study\xuefei-seata-sample\xuefei-order-service\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\01 code\03 git_workspace\xuefei-cloud-study\xuefei-config\src\main\resources\config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -169,11 +533,31 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.17694806" />
   </component>
-  <component name="RunManager" selected="Spring Boot.DependenciesApplication">
-    <configuration name="DependenciesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-dependencies" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.dependencies.DependenciesApplication" />
+  <component name="RunManager">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuefei-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuefei.xuefeiconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeiconfig.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuefei-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuefei.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.order.OrderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,27 +576,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XuefeiCommomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-common" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeicommom.XuefeiCommomApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XuefeiConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-config" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeiconfig.XuefeiConfigApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XuefeiDatabaseJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-database-jpa" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeidatabasejpa.XuefeiDatabaseJpaApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XuefeiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xuefei-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeigateway.XuefeiGatewayApplication" />
@@ -227,20 +590,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XuefeiOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-order-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeiorderservice.XuefeiOrderServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XuefeiSeataModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="xuefei-seata-sample" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeiseatamodule.XuefeiSeataModuleApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XuefeiSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xuefei-swagger" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuefei.xuefeiswagger.XuefeiSwaggerApplication" />
@@ -248,6 +597,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.XuefeiGoodsServiceApplication" />
+      <item itemvalue="Spring Boot.XuefeiSwaggerApplication" />
+      <item itemvalue="Spring Boot.XuefeiGatewayApplication" />
+      <item itemvalue="Spring Boot.XuefeiAccountServiceApplication" />
+      <item itemvalue="Spring Boot.XuefeiBaseApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.ConfigApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -260,79 +624,261 @@
       <option name="presentableId" value="Default" />
       <updated>1582541002213</updated>
       <workItem from="1582541004752" duration="4162000" />
+      <workItem from="1582556257217" duration="7181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4162000" />
+    <option name="totallyTimeSpent" value="11343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25906184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.329718" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.20064034" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="BPMNPalette" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="13" visible="true" weight="0.49457702" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32142857" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.pom" />
     <entry file="file://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xuefei-dependencies/pom.xml">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/2.2.4.RELEASE/spring-boot-maven-plugin-2.2.4.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="-1729" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/2.3.0/mariadb-java-client-2.3.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xuefei-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="4" selection-start-column="3" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/config/DruidDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/resources/config/order/1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.4.RELEASE/spring-boot-autoconfigure-2.2.4.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="231" column="19" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
+          <folding>
+            <element signature="e#7468#7469#0" expanded="true" />
+            <element signature="e#7508#7509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar!/javax/persistence/GenerationType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/01 dev_tools/java/jdk1.8.0_91/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/test/java/com/xuefei/database/XuefeiDatabaseJpaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/src/test/java/com/xuefei/xuefeiconfig/XuefeiConfigApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/test/java/com/xuefei/order/OrderServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="367">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-config/src/main/resources/config/order/order-service-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/druid/DruidMonitorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

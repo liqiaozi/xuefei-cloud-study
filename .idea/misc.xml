@@ -6,18 +6,18 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/xuefei-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-commom/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-common/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-common/xuefei-base/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-common/xuefei-swagger/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-config/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-module/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-common/xuefei-base/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-common/xuefei-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/xuefei-config/pom.xml" />
       </list>
     </option>
   </component>
