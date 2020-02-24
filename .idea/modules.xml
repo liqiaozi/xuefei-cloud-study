@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/xuefei-account-service.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/xuefei-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-common/xuefei-base/xuefei-base.iml" filepath="$PROJECT_DIR$/xuefei-common/xuefei-base/xuefei-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xuefei-cloud-study.iml" filepath="$PROJECT_DIR$/.idea/xuefei-cloud-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-common/xuefei-common.iml" filepath="$PROJECT_DIR$/xuefei-common/xuefei-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-config/xuefei-config.iml" filepath="$PROJECT_DIR$/xuefei-config/xuefei-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/xuefei-database-jpa.iml" filepath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/xuefei-database-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml" filepath="$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-gateway/xuefei-gateway.iml" filepath="$PROJECT_DIR$/xuefei-gateway/xuefei-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/xuefei-goods-service.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/xuefei-goods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/xuefei-order-service.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/xuefei-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuefei-common/xuefei-swagger/xuefei-swagger.iml" filepath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/xuefei-swagger.iml" />
+    </modules>
+  </component>
+</project>

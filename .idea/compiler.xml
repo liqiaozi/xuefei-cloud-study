@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xuefei-account-service" />
+        <module name="xuefei-base" />
+        <module name="xuefei-config" />
+        <module name="xuefei-database-jpa" />
+        <module name="xuefei-gateway" />
+        <module name="xuefei-goods-service" />
+        <module name="xuefei-order-service" />
+        <module name="xuefei-seata-sample" />
+        <module name="xuefei-swagger" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xuefei-account-service" target="1.8" />
+      <module name="xuefei-base" target="1.8" />
+      <module name="xuefei-common" target="1.8" />
+      <module name="xuefei-config" target="1.8" />
+      <module name="xuefei-database-jpa" target="1.8" />
+      <module name="xuefei-dependencies" target="1.8" />
+      <module name="xuefei-gateway" target="1.8" />
+      <module name="xuefei-goods-service" target="1.8" />
+      <module name="xuefei-order-service" target="1.8" />
+      <module name="xuefei-seata-sample" target="1.8" />
+      <module name="xuefei-swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="xuefei-account-service" options="-parameters" />
+      <module name="xuefei-base" options="-parameters" />
+      <module name="xuefei-common" options="-parameters" />
+      <module name="xuefei-config" options="-parameters" />
+      <module name="xuefei-database-jpa" options="-parameters" />
+      <module name="xuefei-dependencies" options="-parameters" />
+      <module name="xuefei-gateway" options="-parameters" />
+      <module name="xuefei-goods-service" options="-parameters" />
+      <module name="xuefei-order-service" options="-parameters" />
+      <module name="xuefei-seata-sample" options="-parameters" />
+      <module name="xuefei-swagger" options="-parameters" />
+    </option>
+  </component>
+</project>
