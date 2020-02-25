@@ -12,8 +12,9 @@
         <module name="xuefei-database-jpa" />
         <module name="xuefei-gateway" />
         <module name="xuefei-goods-service" />
+        <module name="xuefei-openfeign" />
         <module name="xuefei-order-service" />
-        <module name="xuefei-seata-sample" />
+        <module name="xuefei-seata-common" />
         <module name="xuefei-swagger" />
       </profile>
     </annotationProcessing>
@@ -26,7 +27,9 @@
       <module name="xuefei-dependencies" target="1.8" />
       <module name="xuefei-gateway" target="1.8" />
       <module name="xuefei-goods-service" target="1.8" />
+      <module name="xuefei-openfeign" target="1.8" />
       <module name="xuefei-order-service" target="1.8" />
+      <module name="xuefei-seata-common" target="1.8" />
       <module name="xuefei-seata-sample" target="1.8" />
       <module name="xuefei-swagger" target="1.8" />
     </bytecodeTargetLevel>
@@ -41,7 +44,9 @@
       <module name="xuefei-dependencies" options="-parameters" />
       <module name="xuefei-gateway" options="-parameters" />
       <module name="xuefei-goods-service" options="-parameters" />
+      <module name="xuefei-openfeign" options="-parameters" />
       <module name="xuefei-order-service" options="-parameters" />
+      <module name="xuefei-seata-common" options="-parameters" />
       <module name="xuefei-seata-sample" options="-parameters" />
       <module name="xuefei-swagger" options="-parameters" />
     </option>

@@ -12,39 +12,12 @@
     <groupId>com.xuefei</groupId>
     <artifactId>xuefei-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>xuefei-commom</name>
     <packaging>pom</packaging>
+
+    <name>xuefei-commom</name>
     <description>公共模块</description>
 
-
-
-    <!--<dependencies>-->
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.boot</groupId>-->
-            <!--<artifactId>spring-boot-starter-actuator</artifactId>-->
-        <!--</dependency>-->
-
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.boot</groupId>-->
-            <!--<artifactId>spring-boot-starter-test</artifactId>-->
-            <!--<scope>test</scope>-->
-        <!--</dependency>-->
-
-        <!--<dependency>-->
-            <!--<groupId>com.alibaba</groupId>-->
-            <!--<artifactId>fastjson</artifactId>-->
-        <!--</dependency>-->
-
-        <!--<dependency>-->
-            <!--<groupId>com.google.guava</groupId>-->
-            <!--<artifactId>guava</artifactId>-->
-        <!--</dependency>-->
-
-        <!--<dependency>-->
-            <!--<groupId>org.projectlombok</groupId>-->
-            <!--<artifactId>lombok</artifactId>-->
-            <!--<scope>provided</scope>-->
-        <!--</dependency>-->
-    <!--</dependencies>-->
+    <dependencyManagement>
+    </dependencyManagement>
 
 </project>

@@ -4,7 +4,6 @@
     <file url="file://$PROJECT_DIR$/xuefei-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-common/xuefei-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/xuefei-common/xuefei-database-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-common/xuefei-swagger" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-dependencies" charset="UTF-8" />
@@ -12,7 +11,9 @@
     <file url="file://$PROJECT_DIR$/xuefei-seata-sample" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-openfeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-common" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

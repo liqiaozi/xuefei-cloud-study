@@ -6,7 +6,9 @@
         <groupId>com.xuefei</groupId>
         <artifactId>xuefei-common</artifactId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../</relativePath>
     </parent>
+
     <groupId>com.xuefei</groupId>
     <artifactId>xuefei-database-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -45,16 +47,7 @@
             <artifactId>druid</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <scope>provided</scope>
-        </dependency>
-
     </dependencies>
-
-
-
 
 
 </project>
