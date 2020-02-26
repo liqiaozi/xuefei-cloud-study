@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a0d909d-7fd8-4891-8b47-2679a7c43d93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-base/src/main/java/com/xuefei/xuefeibase/XuefeiBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-base/src/main/java/com/xuefei/order/xuefeibase/XuefeiBaseApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-base/src/test/java/com/xuefei/xuefeibase/XuefeiBaseApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-base/src/test/java/com/xuefei/order/xuefeibase/XuefeiBaseApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/config/DruidDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/order/database/config/DruidDataSourceConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/database/druid/DruidMonitorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/main/java/com/xuefei/order/database/druid/DruidMonitorConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/test/java/com/xuefei/database/XuefeiDatabaseJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/src/test/java/com/xuefei/order/database/XuefeiDatabaseJpaApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/src/main/java/com/xuefei/xuefeiswagger/XuefeiSwaggerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/src/main/java/com/xuefei/order/xuefeiswagger/XuefeiSwaggerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/src/test/java/com/xuefei/xuefeiswagger/XuefeiSwaggerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/src/test/java/com/xuefei/order/xuefeiswagger/XuefeiSwaggerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/xuefeiconfig/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-config/src/main/java/com/xuefei/order/xuefeiconfig/ConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-config/src/test/java/com/xuefei/xuefeiconfig/XuefeiConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-config/src/test/java/com/xuefei/order/xuefeiconfig/XuefeiConfigApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-dependencies/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-dependencies/xuefei-dependencies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-gateway/src/main/java/com/xuefei/xuefeigateway/XuefeiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-gateway/src/main/java/com/xuefei/order/xuefeigateway/XuefeiGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-gateway/src/test/java/com/xuefei/xuefeigateway/XuefeiGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-gateway/src/test/java/com/xuefei/order/xuefeigateway/XuefeiGatewayApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/src/main/java/com/xuefei/xuefeiaccountservice/XuefeiAccountServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/src/main/java/com/xuefei/order/xuefeiaccountservice/XuefeiAccountServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/src/test/java/com/xuefei/xuefeiaccountservice/XuefeiAccountServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/src/test/java/com/xuefei/order/xuefeiaccountservice/XuefeiAccountServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/src/main/java/com/xuefei/xuefeigoodsservice/XuefeiGoodsServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/src/main/java/com/xuefei/order/xuefeigoodsservice/XuefeiGoodsServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/src/test/java/com/xuefei/xuefeigoodsservice/XuefeiGoodsServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-goods-service/src/test/java/com/xuefei/order/xuefeigoodsservice/XuefeiGoodsServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/OrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3a0d909d-7fd8-4891-8b47-2679a7c43d93" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/xuefei-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/xuefei-commom/target/" />
     <ignored path="$PROJECT_DIR$/xuefei-common/target/" />
@@ -285,7 +252,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582648026727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582648566935" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/src/main/java/com/xuefei/order/OrderController.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -437,18 +404,18 @@
       <updated>1582541002213</updated>
       <workItem from="1582541004752" duration="4162000" />
       <workItem from="1582556257217" duration="7181000" />
-      <workItem from="1582641912443" duration="6084000" />
+      <workItem from="1582641912443" duration="6625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17427000" />
+    <option name="totallyTimeSpent" value="17968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -476,7 +443,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.20682302" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.20682302" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="BPMNPalette" order="6" />
