@@ -15,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/xuefei-order-service.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-order-service/xuefei-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-common/xuefei-seata-common.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-common/xuefei-seata-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" filepath="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xuefei-common/xuefei-swagger/xuefei-swagger.iml" filepath="$PROJECT_DIR$/xuefei-common/xuefei-swagger/xuefei-swagger.iml" />
     </modules>
   </component>
 </project>

@@ -16,7 +16,6 @@
         <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-account-service/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-common/xuefei-base/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-common/xuefei-database-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/xuefei-common/xuefei-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-config/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-sample/xuefei-seata-common/pom.xml" />
         <option value="$PROJECT_DIR$/xuefei-seata-sample/pom.xml" />

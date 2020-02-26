@@ -15,7 +15,6 @@
         <module name="xuefei-openfeign" />
         <module name="xuefei-order-service" />
         <module name="xuefei-seata-common" />
-        <module name="xuefei-swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -1,6 +1,6 @@
-package com.xuefei.order;
+package com.xuefei.account;
 
-import com.xuefei.seata.common.entity.Order;
+import com.xuefei.seata.common.entity.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
@@ -12,6 +12,7 @@ import org.springframework.stereotype.Repository;
  * @Version 1.0
  **/
 @Repository
-public interface OrderRepository extends JpaRepository<Order, Integer> {
+public interface AccountRepository extends JpaRepository<Account, Integer> {
+
 
 }

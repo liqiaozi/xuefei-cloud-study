@@ -17,8 +17,12 @@
     <name>xuefei-seata-sample</name>
     <description>公共模块</description>
 
-    <dependencyManagement>
-
-    </dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>

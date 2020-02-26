@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 @EnableDiscoveryClient
 @EnableConfigurationProperties
-@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class OrderApplication {
 
     public static void main(String[] args) {

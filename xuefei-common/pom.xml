@@ -17,7 +17,9 @@
     <name>xuefei-commom</name>
     <description>公共模块</description>
 
-    <dependencyManagement>
-    </dependencyManagement>
+    <modules>
+        <module>xuefei-base</module>
+        <module>xuefei-database-jpa</module>
+    </modules>
 
 </project>
