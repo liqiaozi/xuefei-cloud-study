@@ -23,7 +23,7 @@
         <spring-cloud-alibaba-dependencies.version>2.2.0.RELEASE</spring-cloud-alibaba-dependencies.version>
         <seata.version>1.0.0</seata.version>
         <guava.version>20.0</guava.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <lombok.version>1.16.20</lombok.version>
         <mariadb-java-client.version>2.3.0</mariadb-java-client.version>
         <druid.version>1.0.13</druid.version>
